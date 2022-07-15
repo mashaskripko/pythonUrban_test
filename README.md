@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Скрипко Мария Борисовна 
+- https://colab.research.google.com/drive/1OS_yOBvFPNS0YYveoevJOtBIVsfqIhFS?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
